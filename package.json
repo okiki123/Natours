@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "A Node.js Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "debbuger": "ndb"
+  },
+  "author": "Malomo Okikioluwa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  }
+}
