@@ -17,7 +17,6 @@ app.use((req, res, next) => {
   next();
 })
 
-  
 
 // app.get('/api/v1/tours', getAllTours); 
 
